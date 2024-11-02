@@ -3,7 +3,7 @@ languageCode: en-us
 title: Clarabase Blog
 description: This is the official blog for Clarabase, a no-code, no-deploy API builder. Clarabase is on a mission to 10x developer productivity with useful abstractions for the application layer.
 canonical: https://blog.clarabase.com
-theme: ["PaperMod"]
+theme: ["PaperModx"]
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
