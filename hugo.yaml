@@ -1,0 +1,41 @@
+baseURL: https://blog.clarabase.com/
+languageCode: en-us
+title: Clarabase Blog
+description: This is the official blog for Clarabase, a no-code, no-deploy API builder. Clarabase is on a mission to 10x developer productivity with useful abstractions for the application layer.
+canonical: https://blog.clarabase.com
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainSections: ["posts"]
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+
+params:
+  env: production
+  defaultTheme: auto
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowShareButtons: true
+  ShareButtons:
+    - "linkedin"
+    - "reddit"
+    - "facebook"
+  homeInfoParams:
+    Title: Hi there welcome to the Clarabase Blog
+    Content: This is the official blog for Clarabase. Clarabase is on a mission to 10x developer productivity with useful abstractions for the application layer.
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+
