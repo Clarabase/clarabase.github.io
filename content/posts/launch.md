@@ -8,7 +8,7 @@ As developers, we've all been there—spending countless hours writing boilerpla
 
 This repetition led us to create {{< link "https://www.clarabase.com" >}}Clarabase{{< /link >}}, a fully managed API builder built to save developers time and let them focus on the creative, valuable aspects of their applications. Clarabase is designed for engineers of all experience levels, from seasoned professionals to hobbyists. All you need to do is define your data shape, and then you’ll instantly get a production-ready service without the need for deployments, complex setup, or infrastructure management.
 
-## Writing API Plumbing Code is Counterproductive
+## Writing Plumbing Code is Counterproductive
 
 Building CRUD functionality is straightforward conceptually for the majority of use cases, but it is quite laborious. Take into account all of the supporting layers that go into building an API:
 - **CRUD Operations**: Create, Read, Update, and Delete actions for data
