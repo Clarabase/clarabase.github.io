@@ -2,6 +2,10 @@
 date: '2024-11-02T12:23:16-04:00'
 draft: false
 title: 'Introducing Clarabase: Launch API Services in Seconds'
+author: 'Clarabase'
+summary: 'Clarabase is a fully managed API platform that enables effortless no-code API development.'
+tags: ['no code API', 'microservices', 'no-code', 'API builder', 'API platform', 'low-code', 'CRUD as a service', 'API as a service', 'REST API', 'GraphQL', 'gRPC', 'OpenAPI', 'JSON Schema']
+keywords: ['No Code API', 'Low Code API', 'CRUD as a service', 'Clarabase']
 ---
 
 As developers, we spend a lot of time writing boilerplate plumbing code for our APIs, in particular the {{< link "https://en.wikipedia.org/wiki/Create,_read,_update_and_delete" >}}CRUD{{< /link >}} operations. Having to do repetitive tasks is error-prone and detracts you from what truly matters: delivering value to your users through innovative features and creativity. CRUD operations and all the supporting layers such as validation, error handling, pagination, etc. are essential, but they’re not what makes your software unique.
